@@ -7,7 +7,15 @@
 
 https://mikeneko-games.netlify.app/
 
-1か月で作成したゲームのソースコードが置いてあります。
+1か月で作成したゲームのビルドしたソースコード
+
+### 使用技術
+* Unity
+* C#
+
+### 使用素材
+* ドット絵 : ヤマンチュゲーム研究所様（ http://www.ob2.aitai.ne.jp/~owl/material/dot.html ）
+* その他フリーBGM
 
 # 操作方法
 * a or ← : 左移動
